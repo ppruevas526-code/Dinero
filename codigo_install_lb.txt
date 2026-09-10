@@ -1,2 +1,7 @@
 pip install pandas numpy
 pip install git+https://github.com/iqoptionapi/iqoptionapi.git
+
+git add .  esto es para guaradar
+git commit -m "atualizacion"
+git push origin master es para mandar
+git pull origin master es para traer la actualizacion
