@@ -1,0 +1,53 @@
+{
+    "total_senales": 180,
+    "senales_call": 0,
+    "senales_put": 0,
+    "senales_esperar": 180,
+    "operaciones_ejecutadas": 0,
+    "operaciones_ganadas": 0,
+    "operaciones_perdidas": 0,
+    "tasa_aciertos": 0,
+    "ganancia_total": 0.0,
+    "perdida_total": 0.0,
+    "beneficio_neto": 0.0,
+    "beneficio_porcentaje": 0.0,
+    "balance_inicial": 8000,
+    "balance_actual": 8000,
+    "activos": {
+        "EURUSD": {
+            "senales": 60,
+            "call": 0,
+            "put": 0,
+            "esperar": 60,
+            "operaciones": 0,
+            "ganadas": 0,
+            "perdidas": 0,
+            "ganancia": 0.0,
+            "perdida": 0.0
+        },
+        "GBPUSD": {
+            "senales": 60,
+            "call": 0,
+            "put": 0,
+            "esperar": 60,
+            "operaciones": 0,
+            "ganadas": 0,
+            "perdidas": 0,
+            "ganancia": 0.0,
+            "perdida": 0.0
+        },
+        "USDJPY": {
+            "senales": 60,
+            "call": 0,
+            "put": 0,
+            "esperar": 60,
+            "operaciones": 0,
+            "ganadas": 0,
+            "perdidas": 0,
+            "ganancia": 0.0,
+            "perdida": 0.0
+        }
+    },
+    "fecha_actualizacion": "2026-08-21 11:27:45",
+    "historial_reciente": []
+}

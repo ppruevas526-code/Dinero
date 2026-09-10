@@ -1,0 +1,18 @@
+{
+    "total_senales": 12,
+    "senales_call": 0,
+    "senales_put": 0,
+    "senales_esperar": 12,
+    "operaciones_ejecutadas": 0,
+    "operaciones_ganadas": 0,
+    "operaciones_perdidas": 0,
+    "tasa_aciertos": 0,
+    "ganancia_total": 0.0,
+    "perdida_total": 0.0,
+    "beneficio_neto": 0.0,
+    "beneficio_porcentaje": 0.0,
+    "balance_inicial": 8000,
+    "balance_actual": 8000,
+    "fecha_actualizacion": "2026-08-21 11:24:37",
+    "historial_reciente": []
+}
