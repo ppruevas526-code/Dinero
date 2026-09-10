@@ -5,7 +5,7 @@ import numpy as np
 from datetime import datetime
 
 # =============================================
-# VERIFICAR DEPENDENCIAS hola giuseppe
+# VERIFICAR DEPENDENCIAS 
 # =============================================
 try:
     import pandas as pd
